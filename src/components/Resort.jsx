@@ -10,6 +10,7 @@ function Resort(props) {
       <div>{props.status}</div>
       <div>{props.condition}</div>
       <div>{props.sky}</div>
+      <div className="card-image">{props.img}</div>
        </div>
 
   )

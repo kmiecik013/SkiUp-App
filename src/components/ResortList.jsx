@@ -3,6 +3,7 @@ import Resort from "./Resort";
 import React from "react";
 
 
+
 function ResortList() {
   return (
 
@@ -13,7 +14,9 @@ function ResortList() {
         resort="Chamonix"
         snow="10 cm" 
         status="okay"
-        sky="blue" />
+        sky="blue"
+        img="../../images/chamonix.jpeg"
+         />
         
       
         
