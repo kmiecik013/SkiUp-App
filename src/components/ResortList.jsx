@@ -27,7 +27,7 @@ function ResortList() {
         sky="blue" />
 
       <Resort
-        resort="Panarama "
+        resort="Panarcdcama "
         snow="10 cm" 
         status="okay" />
       </div>
