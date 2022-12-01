@@ -21,7 +21,7 @@ function ResortList() {
       
         
       <Resort
-        resort="Sunshine"
+        resort="Sunshinvcdvfvfvde"
         snow="10 cm" 
         status="okay"
         sky="blue" />

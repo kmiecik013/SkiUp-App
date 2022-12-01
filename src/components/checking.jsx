@@ -13,7 +13,7 @@ export default function Checking() {
 
   const api2 = {
     id: "1c24c23e",
-    key: "b46394fe73e54cc0e67793f8ffae7901e97f06459e8944dcc600d473a9bc826e",
+    key: "b1690db775c647ab7400bbcac77a483a",
     base:  "http://api.weatherunlocked.com/" 
   }
 
@@ -32,12 +32,12 @@ export default function Checking() {
   }
 
   let checkUrl2 = () => {
-    fetch(`${api2.base}api/resortforecast/604038?app_id=${api2.id}&app_key=${api2.key}`)
+    fetch("http://api.weatherunlocked.com/api/resortforecast/999001?app_id=1c24c23e&app_key=b1690db775c647ab7400bbcac77a483a")
     .then((res) => res.json())
-    .then((result) => {  
+    .then((result2) => {  
 
     
-    console.log("welcome", result)
+    console.log("welcome", result2)
   }
   )
   }
