@@ -11,7 +11,7 @@ function ResortList() {
    <div className="resort-list">
      <div className="resort-row"> 
       <Resort
-        resort="Chamonix"
+        resort="Chamofrfnix"
         snow="10 cm" 
         status="okay"
         sky="blue"
